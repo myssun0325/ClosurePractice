@@ -1,6 +1,7 @@
 # ClosurePractice
 서위프트 연습.!
 기록: 오픈소스 스터디하다 스위프트 초보인거 같아서 남겨놓느 그런 리드미
+메타타타타타입
 
 ```swift
 class FakePlayer {
